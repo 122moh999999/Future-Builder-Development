@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "950900102499",
+    "project_id": "future-builder-8dadb",
+    "storage_bucket": "future-builder-8dadb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950900102499:android:e6fc56668db39ec8dd2f56",
+        "android_client_info": {
+          "package_name": "com.example.future_builder_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1tFL3GNRc96ExJUnV86WwX84BJlQbEmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
